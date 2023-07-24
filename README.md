@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glen Smith</h1>
-<h3 align="center">A passionate frontend developer from England</h3>
+<h3 align="center">A passionate Front End Developer from England</h3>
 
-- 🔭 I’m currently working on [SafePrints](http://www.safe-prints.ovh/)
+- 🔭 I’m currently working on [Cryto Widget)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/glensmith115](www.linkedin.com/in/glensmith115)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I'm getting my coffin stood upright to save space.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
